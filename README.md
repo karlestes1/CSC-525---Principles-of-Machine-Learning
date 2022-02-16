@@ -1,5 +1,5 @@
 # CSC 525 - Principles of Machine Learning
-**Disclaimer:** These projects were built as a requirement for CSC 525: Principles of Machine Learning at Colorado State University Global under the instruction of Dr. Pubali banerjee. Unless otherwise noted, all programs were created to adhere to explicit guidelines as outlined in the assignment requirements I was given. Descriptions of each [programming assignment](#programming-assignments) and the [portfolio project](#portfolio-project-ml-agents---autonomous-vehicle) can be found below.
+**Disclaimer:** These projects were built as a requirement for CSC 525: Principles of Machine Learning at Colorado State University Global under the instruction of Dr. Pubali Banerjee. Unless otherwise noted, all programs were created to adhere to explicit guidelines as outlined in the assignment requirements I was given. Descriptions of each [programming assignment](#programming-assignments) and the [portfolio project](#portfolio-project-ml-agents---autonomous-vehicle) can be found below.
 
 *****This class has been completed, so this repository is archived.*****
 ___
