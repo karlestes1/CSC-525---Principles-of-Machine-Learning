@@ -1,0 +1,16 @@
+CT\ 1/
+CT\ 4/
+*.pages
+CT\ 5/*.zip
+CT\ 5/*.pdf
+
+Submission/
+Estes_Module2_PortfolioMilestone_Option1.pdf
+Estes_Module3_PortfolioMilestone_Option1.pdf
+Extended Rollaball.png
+Balance Ball.png
+car_simple.yaml.pdf
+
+*.mov
+
+.DS_Store
