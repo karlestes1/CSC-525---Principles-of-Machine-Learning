@@ -25,6 +25,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -74,3 +75,7 @@ crashlytics-build.properties
 # Custom
 Submission/
 Estes_Module
+Assets/ML-Agents/results/
+Assets/ML-Agents/Timers/
+Assets/ML-Agents/config/*.yaml
+!Assets/ML-Agents/config/car_simple.yaml
