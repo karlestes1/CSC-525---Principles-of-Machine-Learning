@@ -1,11 +1,12 @@
 # CSC 525 - Principles of Machine Learning
-**Disclaimer:** These projects were built as a requirement for CSC 525: Principles of Machine Learning at Colorado State University Global under the instruction of Dr. Pubali banerjee. Unless otherwise noted, all programs were created to adhere to explicit guidelines as outlined in the assignment requirements I was given. Descriptions of each [programming assignment](#programming-assignments) and the [portfolio project](#portfolio-project) can be found below.
+**Disclaimer:** These projects were built as a requirement for CSC 525: Principles of Machine Learning at Colorado State University Global under the instruction of Dr. Pubali banerjee. Unless otherwise noted, all programs were created to adhere to explicit guidelines as outlined in the assignment requirements I was given. Descriptions of each [programming assignment](#programming-assignments) and the [portfolio project](#portfolio-project-ml-agents---autonomous-vehicle) can be found below.
 
 *****This class has been completed, so this repository is archived.*****
 ___
 
 ### Languages and Tools
 [<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/python.svg" />](https://www.python.org)
+[<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/c-sharp.svg" />](https://dotnet.microsoft.com/en-us/languages/csharp)
 [<img align="left" height="32" width="32" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-512x512.png" />](https://www.anaconda.com/pricing)
 [<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />](https://code.visualstudio.com)
 [<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://git-scm.com)
@@ -46,6 +47,6 @@ ___
 ## Portfolio Project: [ML Agents - Autonomous Vehicle](Portfolio%20Project/)
 - The final project for this class required to creation of an Agent utilizing the Unity ML-Agents Toolkit. I chose to create a simple Autonomous Vehicle Agent. The Agent could control thrust, braking, and steering with the goal of avoiding any obstacles in its path on the way to a goal.
 - The final version of the agent was trained with simple curriculum learning (learn to drive with on obstacles, and then with) and used Generative Adversarial Imitation Learning (GAIL) in conjunction with extrinsic reward signals.
-- While the final agent was far from perfect, it could successfully navigate around a series of randomly placed obstacles
+- While the final agent not perfect, it could successfully navigate around a series of randomly placed obstacles
 
-![](Portfolio%20Project/Video/recording.mp4)
+![](Portfolio%20Project/Video/Agent_Driving_Recording.mp4)
