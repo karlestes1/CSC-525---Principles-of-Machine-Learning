@@ -49,4 +49,6 @@ ___
 - The final version of the agent was trained with simple curriculum learning (learn to drive with on obstacles, and then with) and used Generative Adversarial Imitation Learning (GAIL) in conjunction with extrinsic reward signals.
 - While the final agent not perfect, it could successfully navigate around a series of randomly placed obstacles
 
-![](Portfolio%20Project/Video/Agent_Driving_Recording.mp4)
+https://user-images.githubusercontent.com/36607088/154367528-8f5a035b-642c-41ad-9a73-880c75be5eca.mp4
+
+
